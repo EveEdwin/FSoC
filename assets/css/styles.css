@@ -375,6 +375,10 @@ img{
   border-radius: .5rem 0 .5rem 0;
 }
 
+#menu .section-subtitle, #menu .section-title {
+  text-align: left;
+}
+
 /*========== APP ==========*/
 .app__data{
   text-align: center;
