@@ -300,6 +300,22 @@ img{
   justify-self: center;
 }
 
+.about .button {
+  display: inline-block;
+  padding: 25px 50px;  
+  font-size: 30px;  
+  border-radius: 5px; 
+  text-align: center;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+  width: 100%;  
+  max-width: 350px;  
+}
+
+.about .button:hover {
+  text-decoration: none;
+}
+
 /*========== SERVICES ==========*/
 .services__container{
   row-gap: 2.5rem;
